@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " L ",
+    "LGL",
+    " L "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "G": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "coins:lapis_lazuli_coin",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "石幣",
+  "item.coins.deepslate_coin": "深板岩幣",
+  "item.coins.netherrack_coin": "地獄石幣",
+  "item.coins.iron_coin" : "鐵幣",
+  "item.coins.coal_coin": "煤幣",
+  "item.coins.copper_coin": "銅幣",
+  "item.coins.lapis_lazuli_coin": "青金石幣",
+  "item.coins.redstone_coin": "紅石幣",
+  "item.coins.gold_coin": "金幣",
+  "item.coins.diamond_coin": "鑽石幣",
+  "item.coins.emerald_coin": "翡翠幣",
+  "item.coins.nether_quartz_coin": "地獄石英幣",
+  "item.coins.netherite_coin": "獄髓幣",
+
+  "itemGroup.coin": "硬幣"
+}

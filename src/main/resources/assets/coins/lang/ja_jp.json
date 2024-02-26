@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "石貨",
+  "item.coins.deepslate_coin": "深層岩貨",
+  "item.coins.netherrack_coin": "ネザーラック貨",
+  "item.coins.iron_coin" : "鉄貨",
+  "item.coins.coal_coin": "石炭銭",
+  "item.coins.copper_coin": "銅貨",
+  "item.coins.lapis_lazuli_coin": "ラピスラズリ貨",
+  "item.coins.redstone_coin": "レッドストーン貨",
+  "item.coins.gold_coin": "金貨",
+  "item.coins.diamond_coin": "ダイヤモンド貨",
+  "item.coins.emerald_coin": "エメラルド貨",
+  "item.coins.nether_quartz_coin": "ネザークォーツ貨",
+  "item.coins.netherite_coin": "ネザライトの貨",
+
+  "itemGroup.coin": "貨"
+}

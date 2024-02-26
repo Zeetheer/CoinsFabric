@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "NGN",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_quartz"
+    },
+    "G": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "coins:nether_quartz_coin",
+    "count": 1
+  }
+}

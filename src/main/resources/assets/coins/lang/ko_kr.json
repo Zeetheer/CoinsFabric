@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "돌 동전",
+  "item.coins.deepslate_coin": "심층암 동전",
+  "item.coins.netherrack_coin": "네더랙 동전",
+  "item.coins.iron_coin" : "철 동전",
+  "item.coins.coal_coin": "석탄 동전",
+  "item.coins.copper_coin": "구리 동전",
+  "item.coins.lapis_lazuli_coin": "청금석 동전",
+  "item.coins.redstone_coin": "레드스톤 동전",
+  "item.coins.gold_coin": "금 동전",
+  "item.coins.diamond_coin": "다이아몬드 동전",
+  "item.coins.emerald_coin": "에매랄드 동전",
+  "item.coins.nether_quartz_coin": "석영 동전",
+  "item.coins.netherite_coin": "네더라이트 동전",
+
+  "itemGroup.coin": "동전"
+}

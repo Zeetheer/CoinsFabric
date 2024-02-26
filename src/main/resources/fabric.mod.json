@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "coins",
+	"version": "${version}",
+	"name": "Coins",
+	"description": "A mod that adds various coins to Minecraft.",
+	"authors": [
+		"Zeetheer"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/organization/coins",
+		"sources": "https://github.com/Zeetheer/Coins"
+	},
+	"license": "MIT License",
+	"icon": "assets/coins/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.zeetheer.coins.Coins"
+		],
+		"client": [
+			"net.zeetheer.coins.CoinsClient"
+		],
+		"fabric-datagen": [
+			"net.zeetheer.coins.CoinsDataGenerator"
+		]
+	},
+	"mixins": [
+		"coins.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "item.coins.stone_coin": "Stone Coin",
+  "item.coins.deepslate_coin": "Deepslate Coin",
+  "item.coins.netherrack_coin": "Netherrack Coin",
+  "item.coins.iron_coin" : "Iron Coin",
+  "item.coins.coal_coin": "Coal Coin",
+  "item.coins.copper_coin": "Copper Coin",
+  "item.coins.lapis_lazuli_coin": "Lapis Lazuli Coin",
+  "item.coins.redstone_coin": "Redstone Coin",
+  "item.coins.gold_coin": "Gold Coin",
+  "item.coins.diamond_coin": "Diamond Coin",
+  "item.coins.emerald_coin": "Emerald Coin",
+  "item.coins.nether_quartz_coin": "Nether Quartz Coin",
+  "item.coins.netherite_coin": "Netherite Coin",
+
+  "itemGroup.coin": "Coins"
+}

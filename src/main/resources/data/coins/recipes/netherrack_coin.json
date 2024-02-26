@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "NGN",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "G": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "coins:netherrack_coin",
+    "count": 1
+  }
+}
