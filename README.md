@@ -1,7 +1,7 @@
 Coins
 =====
 
-![](https://github.com/Zeetheer/Coins/blob/master/icon.png?raw=true)
+![](https://github.com/Zeetheer/Coins/blob/master/Images/icon.png?raw=true)
 
 Coins Github : [https://github.com/Zeetheer/Coins](https://github.com/Zeetheer/Coins)
 --------------------------------------------------------------------------------------------------------
